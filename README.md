@@ -1,2 +1,2 @@
-# snowflake-learning-30-day-journey
-My snowflake learning journey with SQL and Python data projects. These are personal projects for personal practice. 
+My snowflake learning journey with SQL and Python data projects. 
+Welcome to my Snowflake learning documentation! This space serves as a comprehensive record of my exploration into the Data Cloud platform, covering everything from core architecture and virtual warehouses to advanced SQL and performance tuning. The projects within this repository heavily utilize Python for programmatically interacting with Snowflake, particularly for building robust data pipelines, data analysis, visualization, and performing analytical tasks.
